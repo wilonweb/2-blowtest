@@ -165,3 +165,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [rssnext]
   # feedId = ""
   # userId = ""
+
+[assets]
+  disableFingerprinting = true
+  disableSRI = true
