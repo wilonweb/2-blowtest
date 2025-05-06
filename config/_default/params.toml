@@ -169,3 +169,5 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [assets]
   disableFingerprinting = true
   disableSRI = true
+
+  
